@@ -1,5 +1,5 @@
 # Everyone's a Critic
-<a href=""><img src="images/download-on-the-app-store.png" height="40" alt="Download"></a>
+<!-- <a href=""><img src="images/download-on-the-app-store.png" height="40" alt="Download"></a> -->
 
 ## Summary
 Everyone's a Critic is a mobile app that allows users to rate their favorite products and makes recommendations based on their tastes. Created on the premise that taste is individualistic, in a world that celebrates conformity.
