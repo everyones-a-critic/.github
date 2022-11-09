@@ -1,6 +1,6 @@
 # Everyone's a Critic
 <a href="https://apps.apple.com/us/app/everyones-a-critic/id6444014131">
-    <img src="../images/download-on-the-app-store.png" height="40" alt="Download">
+    <img src="images/download-on-the-app-store.png" height="40" alt="Download">
 </a>
 
 ## Summary
@@ -22,10 +22,10 @@ Everyone's a Critic is a mobile app that allows users to rate their favorite pro
 ## Key User Flows
 ### New User
 <p float="left">
-    <img src="../images/new-user-flow/sign-up.png" height="300" alt="Sign Up">
-    <img src="../images/new-user-flow/confirm-account.png" height="300" alt="Confirm Account">
-    <img src="../images/new-user-flow/sign-in.png" height="300" alt="Sign In">
-    <img src="../images/new-user-flow/community-enrollment.png" height="300" alt="Community Management">
+    <img src="images/new-user-flow/sign-up.png" height="300" alt="Sign Up">
+    <img src="images/new-user-flow/confirm-account.png" height="300" alt="Confirm Account">
+    <img src="images/new-user-flow/sign-in.png" height="300" alt="Sign In">
+    <img src="images/new-user-flow/community-enrollment.png" height="300" alt="Community Management">
 </p>
 
 1. User Signs Up
@@ -35,9 +35,9 @@ Everyone's a Critic is a mobile app that allows users to rate their favorite pro
 
 ### Join Community
 <p float="left">
-    <img src="../images/join-community-flow/start.png" height="300" alt="Start">
-    <img src="../images/join-community-flow/tap-to-add.png" height="300" alt="Tap to Add">
-    <img src="../images/join-community-flow/end.png" height="300" alt="End">
+    <img src="images/join-community-flow/start.png" height="300" alt="Start">
+    <img src="images/join-community-flow/tap-to-add.png" height="300" alt="Tap to Add">
+    <img src="images/join-community-flow/end.png" height="300" alt="End">
 </p>
 
 1. User is routed to the Community Management page
@@ -46,10 +46,10 @@ Everyone's a Critic is a mobile app that allows users to rate their favorite pro
 
 ### Leave Community
 <p float="left">
-    <img src="../images/leave-community-flow/start.png" height="300" alt="Start">
-    <img src="../images/leave-community-flow/swipe-to-delete.png" height="300" alt="Swipe to Delete">
-    <img src="../images/leave-community-flow/tap-to-confirm-deletion.png" height="300" alt="Tap to Confirm Deletion">
-    <img src="../images/leave-community-flow/end.png" height="300" alt="End">
+    <img src="images/leave-community-flow/start.png" height="300" alt="Start">
+    <img src="images/leave-community-flow/swipe-to-delete.png" height="300" alt="Swipe to Delete">
+    <img src="images/leave-community-flow/tap-to-confirm-deletion.png" height="300" alt="Tap to Confirm Deletion">
+    <img src="images/leave-community-flow/end.png" height="300" alt="End">
 </p>
 
 1. User is routed to the Community Management page
@@ -59,9 +59,9 @@ Everyone's a Critic is a mobile app that allows users to rate their favorite pro
 
 ### Enter Community
 <p float="left">
-    <img src="../images/enter-community-flow/start.png" height="300" alt="Start">
-    <img src="../images/enter-community-flow/tap-to-enter.png" height="300" alt="Tap to Enter">
-    <img src="../images/enter-community-flow/end.png" height="300" alt="Community Home">
+    <img src="images/enter-community-flow/start.png" height="300" alt="Start">
+    <img src="images/enter-community-flow/tap-to-enter.png" height="300" alt="Tap to Enter">
+    <img src="images/enter-community-flow/end.png" height="300" alt="Community Home">
 </p>
 
 1. User is routed to the Community Management page
@@ -70,9 +70,9 @@ Everyone's a Critic is a mobile app that allows users to rate their favorite pro
 
 ### Existing User App Start-up
 <p float="left">
-    <img src="../images/existing-user-flow/logo-splash.png" height="300" alt="Logo Splash">
-    <img src="../images/existing-user-flow/community-splash.png" height="300" alt="Community Splash">
-    <img src="../images/existing-user-flow/community-home.png" height="300" alt="Community Home">
+    <img src="images/existing-user-flow/logo-splash.png" height="300" alt="Logo Splash">
+    <img src="images/existing-user-flow/community-splash.png" height="300" alt="Community Splash">
+    <img src="images/existing-user-flow/community-home.png" height="300" alt="Community Home">
 </p>
 
 1. Everyone's a Critic logo displays during data load
@@ -81,10 +81,10 @@ Everyone's a Critic is a mobile app that allows users to rate their favorite pro
 
 ### Add Rating
 <p float="left">
-    <img src="../images/add-rating-flow/tap-product.png" height="300" alt="Tap Product">
-    <img src="../images/add-rating-flow/product-home.png" height="300" alt="Product Home">
-    <img src="../images/add-rating-flow/tap-to-rate.png" height="300" alt="Tap to Rate">
-    <img src="../images/add-rating-flow/add-rating-details.png" height="300" alt="Add Rating Details">
+    <img src="images/add-rating-flow/tap-product.png" height="300" alt="Tap Product">
+    <img src="images/add-rating-flow/product-home.png" height="300" alt="Product Home">
+    <img src="images/add-rating-flow/tap-to-rate.png" height="300" alt="Tap to Rate">
+    <img src="images/add-rating-flow/add-rating-details.png" height="300" alt="Add Rating Details">
 </p>
 
 1. While browsing products, user taps on a product
@@ -94,10 +94,10 @@ Everyone's a Critic is a mobile app that allows users to rate their favorite pro
 
 ### Switch Community
 <p float="left">
-    <img src="../images/switch-community-flow/tap-header.png" height="300" alt="Tap Header">
-    <img src="../images/switch-community-flow/switch-community.png" height="300" alt="Community Management Page">
-    <img src="../images/switch-community-flow/tap-community.png" height="300" alt="Tap Community">
-    <img src="../images/switch-community-flow/community-home.png" height="300" alt="Community Home Page">
+    <img src="images/switch-community-flow/tap-header.png" height="300" alt="Tap Header">
+    <img src="images/switch-community-flow/switch-community.png" height="300" alt="Community Management Page">
+    <img src="images/switch-community-flow/tap-community.png" height="300" alt="Tap Community">
+    <img src="images/switch-community-flow/community-home.png" height="300" alt="Community Home Page">
 </p>
 
 1. From any community page, user taps the header
